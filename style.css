@@ -1,0 +1,12 @@
+.div1 {
+  margin: 20px 10px 20px 10px;
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+}
+.div2 {
+  margin: 20px 10px 20px 10px;
+  background-color: rgb(255, 0, 195);
+  height: 200px;
+  width: 200px;
+}
